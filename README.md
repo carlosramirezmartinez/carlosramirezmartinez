@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Buenas 👋, Soy Carlos Ramírez Martínez</h1>
-<h3 align="center">Un apasionado frontend developer de Madrid👨‍💻👨‍💻👨‍💻</h3>
+<h3 align="center">Un apasionado Desarrollador Web junior full-stack de Madrid👨‍💻👨‍💻👨‍💻</h3>
 <br><br>
 
 - 🔭 Trabajo actualmente como: **Administrador Citrix**
