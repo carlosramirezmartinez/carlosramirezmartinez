@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Un apasionado frontend developer de Madrid👨‍💻👨‍💻👨‍💻</h3>
 <br><br>
 
-- 🔭 Trabajo como: **Administrador Citrix**
+- 🔭 Trabajo actualmente como: **Administrador Citrix**
 
 - 🌱 Actualmente estoy aprendiendo **Java, PHP, JS, and more codes**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Tengo conocimientos sobre:
 
-### 🌐 Desarrollo Web
+### 🌐⚡ Desarrollo Web
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### 🔨 Herramientas, IDEs, Entornos de Desarrollo...
+### 🔨💾 Herramientas, IDEs, Entornos de Desarrollo, Bases de Datos...
 
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
@@ -63,48 +63,23 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png">
 <img height="50" src="https://www.blackhillsinfosec.com/wp-content/uploads/2017/04/powershell-1024x766.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">
+
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png">
-</p>
-
-### 💾 Bases de Datos
-<p>
-
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 <img height="50" src="https://camo.githubusercontent.com/f58a3c76218873e64355cdfc8415e40d8a865c835930084289cc09a5d42aa7de/68747470733a2f2f63646e2d7777772e696e666f6269702e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f31343133353934322f6f7261636c652d6c6f676f2e706e67">
-
 </p>
 
-### ☁️ Cloud
+### ☁️🧰🖥️ Otros conocimientos de interés...
 <p>
-  <img height="30" src="https://github.com/citrix/workspace-windows-storebrowse/blob/master/material/img/citrixlogoblack.png">
-  
-</p>
-
-### 🧰 Control de Versiones
-<p>
+<img height="30" src="https://github.com/citrix/workspace-windows-storebrowse/blob/master/material/img/citrixlogoblack.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
-
-</p>
-
-
-
-### 🖥️ Sistemas Operativos
-<p>
-
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png">
   
 </p>
 
 <br>
-
-## Contacte conmigo también en:
-<p align="left">
-<a href="https://www.linkedin.com/in/carlos-ramirez-martinez1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-ram%c3%adrez-mart%c3%adnez-894b7824a/" height="80" width="90" /></a>
-<a href="https://discord.gg/karlox#2163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karlox#2163" height="80" width="90" /></a>
-</p>
 
 
 
