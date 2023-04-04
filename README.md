@@ -12,12 +12,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  Stats:
+ <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosramirezmartinez&show_icons=true&locale=en&layout=compact" alt="carlosramirezmartinez" /></p>
+</p>
+
 -->
 
 <h1 align="center">Buenas 👋, Soy Carlos Ramírez Martínez</h1>
-<h3 align="center">Un apasionado Desarrollador Web junior full-stack de Madrid👨‍💻👨‍💻👨‍💻</h3>
-<br><br>
 
+<h3 align="center">Un apasionado Desarrollador Web junior full-stack de Madrid👨‍💻👨‍💻👨‍💻</h3>
+
+<br><br>
+<div style="display: inline_block">
+ 
 - 🔭 Trabajo actualmente como: **Administrador Citrix**
 
 - 🌱 Actualmente estoy aprendiendo **Java, PHP, JS, and more codes**
@@ -25,25 +33,27 @@ Here are some ideas to get you started:
 - 👯 Me encantaría colaborar en **Proyectos de Front-end**
 
 - 📫 Contacte conmigo en: **carlosramirezmartinez01@gmail.com**
-
+  
+</div> 
 <br>
-
 
 ## Tengo conocimientos sobre:
 
+
 ### 🌐⚡ Desarrollo Web
-<p>
+ <div style="display: inline_block">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/html.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/css.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/bootstrap.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/wordpress.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/joomla.png">
+
   
- </p> 
+ </div> 
 
 
 ### 🐘☕ Programación
-<p>
+<div style="display: inline_block">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/php.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/java.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/javascript.png">
@@ -51,12 +61,12 @@ Here are some ideas to get you started:
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/npm.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/nodejs.png">
 
-</p>
+ </div> 
 
 
 ### 🔨💾 Herramientas, IDEs, Entornos de Desarrollo, Bases de Datos...
 
-<p>
+<div style="display: inline_block">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/visualstudiocode.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/eclipse.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/sublime.png">
@@ -67,19 +77,23 @@ Here are some ideas to get you started:
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/oracle.png">
 
   
-</p>
+</div> 
 
 ### ☁️🧰🖥️ Otros conocimientos de interés...
-<p>
+<div style="display: inline_block">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/citrix.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/git.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/github.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/windows.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/ubuntu.png">
 
-</p>
-
+</div> 
 <br>
+
+
+
+
+
 
 
 
