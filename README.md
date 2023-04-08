@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Un apasionado Desarrollador Web junior full-stack de Madrid👨‍💻👨‍💻👨‍💻</h3>
 
-<br><br>
+<br>
 <div style="display: inline_block">
  
 - 🔭 Trabajo actualmente como: **Administrador Citrix**
@@ -88,7 +88,6 @@ Here are some ideas to get you started:
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/ubuntu.png">
 
 </div> 
-<br>
 
 
 
