@@ -75,6 +75,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/jira.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/mysql.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/oracle.png">
+  <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/mongodb.PNG">
 
   
 </div> 
