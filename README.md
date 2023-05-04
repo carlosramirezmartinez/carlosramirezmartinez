@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">Un apasionado Desarrollador Web junior full-stack de Madrid👨‍💻👨‍💻👨‍💻</h3>
 
-
+<!--
 <div>
   <img align="right" alt="dev-gif" height="170" width="215" src="https://i.giphy.com/media/unQ3IJU2RG7DO/giphy.webp">
 </div>
-
+-->
 
 <br>
 <div style="display: inline_block">
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <div>
   <img align="right" height="150" alt="carlosramirezmartinez" src="https://github-readme-stats.vercel.app/api?username=carlosramirezmartinez&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
+
 
 ### 🌐⚡ Desarrollo Web
  <div style="display: inline_block">
