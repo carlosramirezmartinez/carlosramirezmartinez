@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img align="right" alt="dev-gif" height="210" width="250" src="https://i.giphy.com/media/unQ3IJU2RG7DO/giphy.webp">
+  <img align="right" alt="dev-gif" height="170" width="215" src="https://i.giphy.com/media/unQ3IJU2RG7DO/giphy.webp">
 </div>
 
 
