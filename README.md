@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## Tengo conocimientos sobre:
 
 <div>
-  <img align="right" height="200" alt="carlosramirezmartinez" src="https://github-readme-stats.vercel.app/api?username=carlosramirezmartinez&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150" alt="carlosramirezmartinez" src="https://github-readme-stats.vercel.app/api?username=carlosramirezmartinez&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
 
 ### 🌐⚡ Desarrollo Web
