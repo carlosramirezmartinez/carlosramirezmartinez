@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <br>
 
 ## Tengo conocimientos sobre:
-
+<!--
 <div>
   <img align="right" height="150" alt="carlosramirezmartinez" src="https://github-readme-stats.vercel.app/api?username=carlosramirezmartinez&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 
 ### 🌐⚡ Desarrollo Web
  <div style="display: inline_block">
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/bootstrap.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/wordpress.png">
   <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/joomla.png">
+  <img height="50" src="https://github.com/carlosramirezmartinez/Logos/blob/main/cypress.png">
 
   
  </div> 
